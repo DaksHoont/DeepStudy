@@ -1,3 +1,10 @@
-Test for Jupyter Notebook
+# Deep Learning Study
 
-Test after reboot Jupyter Notebook Container
+## 1. MNIST
+  Target : https://www.tensorflow.org/tutorials?hl=ko
+  - Keras
+  - Tensorflow
+  - Pytorch
+  - Python
+  (Additionally visualization using Tensor board)
+
