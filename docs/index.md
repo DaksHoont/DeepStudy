@@ -1,4 +1,5 @@
 ## Deep learning study with PyTorch examples
-- Short introduction to Python and PyTorch
+- Python 
+- PyTorch
 - MNIST
 - CycleGAN
