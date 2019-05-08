@@ -1,5 +1,5 @@
 ## Deep learning study with PyTorch examples
-- [Python](Python.md)
+- [Python](Python)
 - PyTorch
 - MNIST
 - CycleGAN
