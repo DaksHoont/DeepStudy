@@ -1,6 +1,7 @@
-# Deep Learning Study
+# Deep Learning Study with PyTorch Examples
 
-## 0. Short Tutorials
-  - Python
+  - [Python](./0.Intro/Python.ipynb)
   - PyTorch
+  - MNIST
+  - CycleGAN
 
